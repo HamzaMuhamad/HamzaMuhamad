@@ -1,4 +1,4 @@
-- 👋 Hi, I’m HamzaMuhammad
+- 👋 Hi, I’m Hamza Muhammad
 - 👀 I’m interested in Python and problem solving.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
