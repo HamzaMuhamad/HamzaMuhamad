@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0EA5E9&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=0EA5E9" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=HamzaMuhamad&label=Profile+Views&color=0EA5E9&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/HamzaMuhamad?label=Followers&style=flat-square&color=0EA5E9" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
@@ -33,13 +33,13 @@ I'm a front-end developer who turns complex designs into **clean, responsive, an
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&title_color=0EA5E9&icon_color=38B2AC&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&ring=0EA5E9&fire=38B2AC&currStreakLabel=0EA5E9&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HamzaMuhamad&show_icons=true&theme=default&title_color=0EA5E9&icon_color=38B2AC&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaMuhamad&theme=default&ring=0EA5E9&fire=38B2AC&currStreakLabel=0EA5E9&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&title_color=0EA5E9&bg_color=ffffff&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMuhamad&layout=compact&title_color=0EA5E9&bg_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=HamzaMuhamad&theme=flat&column=4&margin-w=15&margin-h=15&no-bg=true&rank=SSS,S,SS,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ I'm a front-end developer who turns complex designs into **clean, responsive, an
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=ffffff&color=0EA5E9&line=38B2AC&point=0EA5E9&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaMuhamad&bg_color=ffffff&color=0EA5E9&line=38B2AC&point=0EA5E9&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -63,6 +63,9 @@ I'm a front-end developer who turns complex designs into **clean, responsive, an
   </a>
   <a href="https://github.com/HamzaMuhamad">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://khamsat.com/user/hamza_muhamd" target="_blank">
+  <img src="https://img.shields.io/badge/Khamsat-f3a406?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </p>
 
