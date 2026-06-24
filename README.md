@@ -115,7 +115,7 @@
     <a href="https://www.linkedin.com/in/hamzamuhammad365">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://hamzamuhamad.github.io/My-Website/html/index.html">
+    <a href="https://HamzaMuhamad.github.io/My-Website/html/index.html">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
     </a>
   </div>
@@ -124,10 +124,18 @@
 <br/>
 
 <!-- GitHub Stats with Unique Design (Neon Theme) -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzaMuhamad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMuhamad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
-</div>
+<p align="center">
+  <!-- Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HamzaMuhamad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&rank_icon=github"/>
+  
+  <!-- Streak -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaMuhamad&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMuhamad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&layout=compact"/>
+</p>
 
 
 <!-- ==================== PINNED REPOSITORIES SECTION ==================== -->
@@ -140,9 +148,9 @@
   </a> 
   <br/> 
   <!-- View All Repositories Button --> 
-  <a href="https://github.com/hamzaMuhamad?tab=repositories"> <img src="https://img.shields.io/badge/View_All_Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=0D1117" alt="All Repos" />
+  <a href="https://github.com/HamzaMuhamad?tab=repositories"> <img src="https://img.shields.io/badge/View_All_Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=0D1117" alt="All Repos" />
   </a> 
-  <img src="https://komarev.com/ghpvc/?username=hamzaMuhamad&label=PROFILE+VIEWS&style=for-the-badge&color=38BDF8" alt="Profile Views Counter" /> 
+  <img src="https://komarev.com/ghpvc/?username=HamzaMuhamad&label=PROFILE+VIEWS&style=for-the-badge&color=38BDF8" alt="Profile Views Counter" /> 
 </div>
 <!-- ==================== DIVIDER ==================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
