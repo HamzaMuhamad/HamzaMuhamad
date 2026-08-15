@@ -124,33 +124,71 @@
 <br/>
 
 <!-- GitHub Stats with Unique Design (Neon Theme) -->
-<p align="center">
-  <!-- Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HamzaMuhamad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&rank_icon=github"/>
-  
+<p align="center">  
   <!-- Streak -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaMuhamad&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMuhamad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&layout=compact"/>
-</p>
-
 
 <!-- ==================== PINNED REPOSITORIES SECTION ==================== -->
-<div align="center"> <h2>📌 Featured Projects</h2> 
-  <!-- Project Card 1 --> 
-  <a href="https://hamzamuhamad.github.io/My-Website/html/index.html"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaMuhamad&repo=My-Website&theme=react&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&hide_border=true" alt="React Dashboard Repo" /> 
-  </a> 
-  <!-- Project Card 2 --> 
-  <a href="https://github.com/HamzaMuhamad/Elzero-Website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaMuhamad&repo=Elzero-Website&theme=react&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&hide_border=true" alt="Tailwind UI Kit Repo" /> 
-  </a> 
-  <br/> 
-  <!-- View All Repositories Button --> 
-  <a href="https://github.com/HamzaMuhamad?tab=repositories"> <img src="https://img.shields.io/badge/View_All_Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=0D1117" alt="All Repos" />
-  </a> 
-  <img src="https://komarev.com/ghpvc/?username=HamzaMuhamad&label=PROFILE+VIEWS&style=for-the-badge&color=38BDF8" alt="Profile Views Counter" /> 
+<div align="center">
+
+<h2 align="center">Featured Work</h2>
+
+<table align="center">
+  <tr>
+    <td width="55%">
+      <a href="https://github.com/HamzaMuhamad/My-Website" style="background-color: red;">
+      <img  width="100%" alt="Hamza's Website" src="https://github.com/user-attachments/assets/bdcfc03a-c41c-46cf-83cc-cb30cafdd035" />
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3>My Website</h3>
+      <p>
+        A clean and responsive personal website built to showcase my work,
+        skills, and frontend development journey.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <a href="https://github.com/HamzaMuhamad/My-Website">
+        View source →
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="55%">
+      <a href="https://github.com/HamzaMuhamad/Elzero-Website">
+        <img width="100%" alt="Elzero Website preview" width="100%" src="https://github.com/user-attachments/assets/da4ae74c-41c7-429d-95be-c4efe3a77b86" />
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3>Elzero Website</h3>
+      <p>
+        A responsive frontend project focused on layout, reusable sections,
+        visual hierarchy, and pixel-perfect implementation.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/Responsive-38BDF8?style=flat-square&logoColor=black" alt="Responsive design" />
+      </p>
+      <a href="https://github.com/HamzaMuhamad/Elzero-Website">
+        View source →
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/HamzaMuhamad?tab=repositories">
+    Explore all projects →
+  </a>
+</p>
+
 </div>
 <!-- ==================== DIVIDER ==================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
