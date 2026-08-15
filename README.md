@@ -141,7 +141,7 @@
 <!-- ==================== PINNED REPOSITORIES SECTION ==================== -->
 <div align="center"> <h2>📌 Featured Projects</h2> 
   <!-- Project Card 1 --> 
-  <a href="https://github.com/HamzaMuhamad/My-Website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaMuhamad&repo=My-Website&theme=react&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&hide_border=true" alt="React Dashboard Repo" /> 
+  <a href="https://hamzamuhamad.github.io/My-Website/html/index.html"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaMuhamad&repo=My-Website&theme=react&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&hide_border=true" alt="React Dashboard Repo" /> 
   </a> 
   <!-- Project Card 2 --> 
   <a href="https://github.com/HamzaMuhamad/Elzero-Website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaMuhamad&repo=Elzero-Website&theme=react&bg_color=0D1117&title_color=38BDF8&icon_color=F8D866&hide_border=true" alt="Tailwind UI Kit Repo" /> 
